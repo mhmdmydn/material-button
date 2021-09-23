@@ -1,6 +1,8 @@
 # Material design button  
+A simple how to use button material android
 ## Screenshot
-<div align="center">
-[<img height="300" src="res/Screenshot_1632407157.png" alt="img1"/>](res/Screenshot_1632407157.png)
-[<img height="300" src="res/Screenshot_1632407168.png" alt="img1"/>](res/Screenshot_1632407157.png)
+
+<div align="left">
+  <img src="res/Screenshot_1632407157.png" width="170" />
+  <img src="res/Screenshot_1632407168.png" width="170" /> 
 </div>
